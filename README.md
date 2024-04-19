@@ -1,1 +1,1 @@
-# bankruptcy_prediction_methods
+The project compares the performance of three basic methods used for bankruptcy predictions: discriminant analysis (LDA), logistic regression and neural networks. Data source: https://archive.ics.uci.edu/dataset/365/polish+companies+bankruptcy+data. Results suggest that both logistic regression and neural networks perform significantly better than LDA.
